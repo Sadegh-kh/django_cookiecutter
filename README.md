@@ -1,2 +1,7 @@
 # django_cookiecutter
-my cookiecutter for django projects
+my cookiecutter for django project
+# setup
+``
+pip install cookiecutter
+``
+
